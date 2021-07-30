@@ -10,7 +10,7 @@ This will serve as a brief description of your project. Limit this to three sent
 # First Milestone
 My first milestone is getting to know some basic knowledge in machine learning, setting up the Raspberry Pi, and finding a database for birds. 
 
-##1.Machine learning 
+## 1.Machine learning 
 Machine learning is like the opposite process of traditional programing. In machine learning, the computer should figure out the rules based on the answers and data you gave it. 
 
 For a start, I learned Tensorflow, a library created by Google to implement machine learning models, and built a sample program that can recognise numbers in mnist. Here is the code:
