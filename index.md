@@ -34,6 +34,11 @@ model=tf.keras.models.Sequential([
 
  model.evaluate(image_test, label_test, verbose=2)
 ```
+## 2.Setting up the Raspberry Pi
+
+## 3.Database
+I found a very good database for bird classification (https://www.kaggle.com/gpiosenka/100-bird-species). It contains 275 bird species——39364 training images, 1375 test images(5 per species), and 1375 validation images. 
+
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
