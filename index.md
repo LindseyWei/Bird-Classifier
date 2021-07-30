@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Bird Classification
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -8,7 +8,7 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # First Milestone
-My first milestone is getting to know some basic knowledge in machine learning, setting up the Raspberry Pi, and finding a database for birds. 
+My first milestone is getting to know some basic knowledge in machine learning, setting up the Raspberry Pi, and finding a dataset for birds. 
 
 ## 1.Machine learning 
 Machine learning is like the opposite process of traditional programing. In machine learning, the computer should figure out the rules based on the answers and data you gave it. 
@@ -36,8 +36,8 @@ model=tf.keras.models.Sequential([
 ```
 ## 2.Setting up the Raspberry Pi
 
-## 3.Database
-I found a very good database for bird classification (https://www.kaggle.com/gpiosenka/100-bird-species). It contains 275 bird species——39364 training images, 1375 test images(5 per species), and 1375 validation images. 
+## 3.Dataset
+I found a very good dataset for bird classification (https://www.kaggle.com/gpiosenka/100-bird-species). It contains 275 bird species——39364 training images, 1375 test images(5 per species), and 1375 validation images. 
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
