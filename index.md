@@ -35,9 +35,19 @@ model=tf.keras.models.Sequential([
  model.evaluate(image_test, label_test, verbose=2)
 ```
 ## 2.Setting up the Raspberry Pi
+I successfully connected the Raspberry Pi with the monitor, the keyboard, and the mouse. Now it is ready to recieve my model and start working. 
 
 ## 3.Dataset
 I found a very good dataset for bird classification (https://www.kaggle.com/gpiosenka/100-bird-species). It contains 275 bird species——39364 training images, 1375 test images(5 per species), and 1375 validation images. 
+
+I uploaded the dataset to Google Colab from Google Drive and did some data pre-processing work. For the next step, I will transform the data and build my classifier. I decided to use Pytorch and the pre-trained VGG16 model.
+
+Useful codes to upload dataset:
+```python
+from google.colab import drive
+drive.flush_and_unmount()
+drive.mount('/content/gdrive', force_remount=True)
+```
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
