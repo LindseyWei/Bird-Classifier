@@ -37,6 +37,9 @@ model=tf.keras.models.Sequential([
 ## 2.Setting up the Raspberry Pi
 I successfully connected the Raspberry Pi with the monitor, the keyboard, and the mouse. Now it is ready to recieve my model and start working. 
 
+![image](https://user-images.githubusercontent.com/79397351/128520390-fa537a86-9fef-4337-b342-8dc4a421f0e2.png)
+
+
 ## 3.Dataset
 I found a very good dataset for bird classification (https://www.kaggle.com/gpiosenka/100-bird-species). It contains 275 bird species——39364 training images, 1375 test images(5 per species), and 1375 validation images. 
 
