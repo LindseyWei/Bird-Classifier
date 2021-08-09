@@ -4,9 +4,8 @@ This is a bird image classifier using python and machine learning.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Linxi Wei | The Affiliated High School of Peking University | Computer Science | Incoming Senior
+![image](https://user-images.githubusercontent.com/79397351/128707285-b6f6c0c2-5881-4d87-88a6-5ebf65c6f8a6.png)
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
 # First Milestone
 My first milestone is getting to know some basic knowledge in machine learning, setting up the Raspberry Pi, and finding a dataset for birds. 
 
