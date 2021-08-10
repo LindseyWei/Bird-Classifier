@@ -107,6 +107,6 @@ Trainable params: 501,780
 Non-trainable params: 14,714,688
 _________________________________________________________________
 ```
-
+After building the model, I began to train it. I did training and testing at the same time, and I used 5 epochs. To make it done more quickly, I used GPU to run it. 
 
 # Final Milestone
