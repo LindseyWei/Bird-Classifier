@@ -51,7 +51,7 @@ from google.colab import drive
 drive.flush_and_unmount()
 drive.mount('/content/gdrive', force_remount=True)
 ```
-https://youtu.be/4Fx8QDezMp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Fx8QDezMp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 My second milestone is building up my machine learning model. Since the dataset I chose is too big, I randomly selected 20 bird species to form my training array. I used vgg16 as my base model and built my own model on top of it. My final model is like this:
