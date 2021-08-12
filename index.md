@@ -116,6 +116,7 @@ After building the model, I began to train it. I did training and testing at the
 
 ![image](https://user-images.githubusercontent.com/79397351/129040819-7a67bbae-eb79-43dd-b7fc-125f17e467f0.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JcK3WEoukYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Final Milestone
