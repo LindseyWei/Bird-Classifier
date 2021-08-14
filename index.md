@@ -120,3 +120,5 @@ After building the model, I began to train it. I did training and testing at the
 
 
 # Final Milestone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-129qTxd3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
