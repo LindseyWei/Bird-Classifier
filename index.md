@@ -120,6 +120,6 @@ After building the model, I began to train it. I did training and testing at the
 
 
 # Final Milestone
-My final milestone is a complete bird image classifier that I presented in the video below. I made a shell for my model by defining the input and output data. Now the model can work successfully. You can see my codes in GitHub.
+My final milestone is a complete bird image classifier that I presented in the video below. I made a shell for my model by defining the input and output data. Now the model can work successfully. You can see my codes on GitHub.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-129qTxd3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
